@@ -21,6 +21,8 @@ time zone and keybord layout
 
 <img width="680" height="478" alt="image" src="https://github.com/user-attachments/assets/b614c8c3-90b0-4e41-b18a-914554b52a90" />
 
+user name and pass word by your rule
+
 <img width="680" height="478" alt="image" src="https://github.com/user-attachments/assets/479b644e-95a4-40a9-8346-059122a1da51" />
 
 <img width="680" height="478" alt="image" src="https://github.com/user-attachments/assets/634577c2-7b10-4e51-8e33-41eef7ee9627" />
