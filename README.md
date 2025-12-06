@@ -26,3 +26,5 @@ selecting SSD (Storage)
 <img width="680" height="478" alt="image" src="https://github.com/user-attachments/assets/7313678f-cfee-4468-9e61-102b6718d03c" />
 
 <img width="680" height="478" alt="image" src="https://github.com/user-attachments/assets/32c8424b-2808-4b6f-8ded-4e69d5ef3d35" />
+
+<img width="680" height="478" alt="image" src="https://github.com/user-attachments/assets/fef4e0ac-c87c-4007-8d44-f5cbfd0db6d8" />
