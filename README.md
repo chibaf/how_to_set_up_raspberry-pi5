@@ -1,5 +1,16 @@
 # how_to_set_up_raspberry-pi5
 
+## hardware
+
+SSD
+
+<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/e7a7ea34-2f56-4ae9-8020-c32cb73a35b9" />
+
+USB scokets (use blue sockets)
+
+<img width="579" height="341" alt="image" src="https://github.com/user-attachments/assets/8d9e33c6-9efa-47bf-be60-0efeb9ec240a" />
+
+
 ## set up SSD with imager
 Raspberry Pi imager
 Raspberry Pi software – Raspberry Pi  https://www.raspberrypi.com/software/
