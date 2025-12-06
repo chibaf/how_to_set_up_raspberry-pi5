@@ -29,6 +29,8 @@ if you don't employ Wifi youcan skip this step. THen You must employ an ether ca
 
 <img width="680" height="478" alt="image" src="https://github.com/user-attachments/assets/634577c2-7b10-4e51-8e33-41eef7ee9627" />
 
+You enable SSH for remote login.
+
 <img width="680" height="478" alt="image" src="https://github.com/user-attachments/assets/7313678f-cfee-4468-9e61-102b6718d03c" />
 
 <img width="680" height="478" alt="image" src="https://github.com/user-attachments/assets/32c8424b-2808-4b6f-8ded-4e69d5ef3d35" />
