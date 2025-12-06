@@ -52,3 +52,8 @@ installing Raspbian to SSD
 <img width="753" height="523" alt="image" src="https://github.com/user-attachments/assets/e7e2ab43-5fb7-4beb-be28-95c958f9f44e" />
 
 <img width="680" height="478" alt="image" src="https://github.com/user-attachments/assets/3425adce-be33-48ab-9a19-27bda9fe700d" />
+
+this task was done.
+
+<img width="680" height="478" alt="image" src="https://github.com/user-attachments/assets/f13864d3-0444-4c85-a822-cf32b5fba095" />
+
