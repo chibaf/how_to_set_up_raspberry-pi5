@@ -17,6 +17,8 @@ fix name by your naming rule
 
 <img width="680" height="478" alt="image" src="https://github.com/user-attachments/assets/6de5ffae-08bb-4696-bbf9-0dc80ab15e35" />
 
+time zone and keybord layout
+
 <img width="680" height="478" alt="image" src="https://github.com/user-attachments/assets/b614c8c3-90b0-4e41-b18a-914554b52a90" />
 
 <img width="680" height="478" alt="image" src="https://github.com/user-attachments/assets/479b644e-95a4-40a9-8346-059122a1da51" />
