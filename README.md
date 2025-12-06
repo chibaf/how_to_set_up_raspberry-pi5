@@ -35,6 +35,9 @@ You enable SSH for remote login.
 
 skipping
 
+Raspberry Pi Connect - Access your Raspberry Pi from anywhere – Raspberry Pi 
+https://www.raspberrypi.com/software/connect/
+
 <img width="680" height="478" alt="image" src="https://github.com/user-attachments/assets/32c8424b-2808-4b6f-8ded-4e69d5ef3d35" />
 
 summary
