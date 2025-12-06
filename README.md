@@ -39,7 +39,8 @@ user name and pass word by your rule
 
 <img width="680" height="478" alt="image" src="https://github.com/user-attachments/assets/479b644e-95a4-40a9-8346-059122a1da51" />
 
-if you don't employ Wifi youcan skip this step. THen You must employ an ether cable.
+You write SSID name and password for your LAN.
+if you don't employ Wifi youcan skip this step. Then You must employ an ether cable.
 
 <img width="680" height="478" alt="image" src="https://github.com/user-attachments/assets/634577c2-7b10-4e51-8e33-41eef7ee9627" />
 
